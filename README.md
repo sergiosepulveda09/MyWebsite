@@ -3,5 +3,6 @@ This is the site I created to hold my personal portfolio projects, I used CSS, H
 
 ## URL
 URL: https://sergiosepulveda09.github.io/WebsiteFinal/
+URL: https://sergiosepulveda09.github.io/Practice/
 
 
