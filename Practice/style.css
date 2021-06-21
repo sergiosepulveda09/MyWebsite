@@ -345,7 +345,7 @@ p {
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
-	transition: all 0.5s ease;
+	transition: all ease 0.5s ;
 }
 #skills .skill-item:hover {
     transform: scale(1.1);
