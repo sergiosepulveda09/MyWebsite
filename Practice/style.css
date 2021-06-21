@@ -345,6 +345,7 @@ p {
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
+	transition: all 0.5s ease;
 }
 #skills .skill-item:hover {
     transform: scale(1.1);
@@ -369,6 +370,7 @@ p {
 	height: 80px;
 	width: 80px;
 	margin-bottom: 20px;
+	transition: all ease 0.5s;
 }
 #skills .skill-item h2 {
 	font-size: 2rem;
